@@ -1,5 +1,5 @@
 # CP-Learning_Resources
-This is a collection of links, blogs and threads etc that I have used to understand and learn new Data Structures, Algorithms and Techniques in CP.
+This is a collection of links, blogs and questions etc that I have used to understand and learn new Data Structures, Algorithms and Techniques in CP.
 
 1. [**CP-Algorithms.com**](cp-algorithms.com) (Best resource ever with almost all important topics with brief & precise explanation and code. :orange_heart:)
 1. [Fenwick Tree](https://www.hackerearth.com/practice/notes/binary-indexed-tree-or-fenwick-tree/)
