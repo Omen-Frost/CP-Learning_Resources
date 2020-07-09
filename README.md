@@ -3,6 +3,7 @@ This is a collection of links, blogs and questions etc that I have used to under
 
 1. [**CP-Algorithms.com**](cp-algorithms.com) (Best resource ever with almost all important topics with brief & precise explanation and code. :orange_heart:)
 1. [Fenwick Tree](https://www.hackerearth.com/practice/notes/binary-indexed-tree-or-fenwick-tree/)
+1. [DP on Trees](https://codeforces.com/blog/entry/20935)
 1. [Centroid Decomposition](https://www.quora.com/q/threadsiiithyderabad/Centroid-Decomposition-of-a-Tree) 
 1. [Grundy Numbers and Nim](https://codeforces.com/blog/entry/66040)
 1. [Suffix Array](https://codeforces.com/edu/course/2)
