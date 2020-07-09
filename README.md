@@ -7,6 +7,7 @@ This is a collection of links, blogs and questions etc that I have used to under
 1. [Centroid Decomposition](https://www.quora.com/q/threadsiiithyderabad/Centroid-Decomposition-of-a-Tree) 
 1. [Grundy Numbers and Nim](https://codeforces.com/blog/entry/66040)
 1. [Suffix Array](https://codeforces.com/edu/course/2)
+1. [FFT](https://codeforces.com/blog/entry/43499)
 
 Some topics, DP in particular, can only be understood well by solving problems, these are some problems that I believe are very educating.
 
