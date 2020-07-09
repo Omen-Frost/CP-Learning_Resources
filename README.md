@@ -13,6 +13,7 @@ Some topics, DP in particular, can only be understood well by solving problems, 
 
 
 1. Dp:
+   * [* List *](https://codeforces.com/blog/entry/20284#comment-250675) 
    * [Music shopping](https://www.codechef.com/COOK104A/problems/SONGSHOP)
    * [Families of Chefland](https://www.codechef.com/LTIME69A/problems/GRAPHTRE)
    * [Marbles](https://codeforces.com/problemset/problem/1215/E)
