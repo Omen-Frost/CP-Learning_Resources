@@ -13,7 +13,7 @@ Some topics, DP in particular, can only be understood well by solving problems, 
 
 
 1. Dp:
-   * [*List(comment)*](https://codeforces.com/blog/entry/20284#comment-250675) 
+   * [*A small list of problems(comment)*](https://codeforces.com/blog/entry/20284#comment-250675) 
    * [Music shopping](https://www.codechef.com/COOK104A/problems/SONGSHOP)
    * [Families of Chefland](https://www.codechef.com/LTIME69A/problems/GRAPHTRE)
    * [Marbles](https://codeforces.com/problemset/problem/1215/E)
@@ -24,6 +24,7 @@ Some topics, DP in particular, can only be understood well by solving problems, 
    * [New Year Tree](https://codeforces.com/contest/620/problem/E)
    * [Nastya and Unexpected Guest](https://codeforces.com/problemset/problem/1341/E)
    * [Ada Pawns](https://www.codechef.com/COOK102A/problems/ADAPWNS)
+   * [Merging Towers](https://codeforces.com/contest/1380/problem/E)
 
 
 (More links will be added regularly.)
