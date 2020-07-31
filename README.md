@@ -21,11 +21,11 @@ Some topics, DP in particular, can only be understood well by solving problems, 
    * [Jongmah](https://codeforces.com/contest/1110/problem/D)
    
 1. General Problems
-   * [New Year Tree](https://codeforces.com/contest/620/problem/E)
-   * [Nastya and Unexpected Guest](https://codeforces.com/problemset/problem/1341/E)
-   * [Ada Pawns](https://www.codechef.com/COOK102A/problems/ADAPWNS)
+   * [New Year Tree](https://codeforces.com/contest/620/problem/E) (lazy seg practice)
+   * [Nastya and Unexpected Guest](https://codeforces.com/problemset/problem/1341/E) ( graph concepts )
+   * [Ada Pawns](https://www.codechef.com/COOK102A/problems/ADAPWNS) ( brilliant reduction to nim )
    * [Merging Towers](https://codeforces.com/contest/1380/problem/E)
-   * [Jack's Candy Shop](https://www.facebook.com/codingcompetitions/hacker-cup/2018/round-2/problems/B)
+   * [Jack's Candy Shop](https://www.facebook.com/codingcompetitions/hacker-cup/2018/round-2/problems/B) (See the Time complexity analysis)
 
 
 (More links will be added regularly.)
