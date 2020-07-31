@@ -25,6 +25,7 @@ Some topics, DP in particular, can only be understood well by solving problems, 
    * [Nastya and Unexpected Guest](https://codeforces.com/problemset/problem/1341/E)
    * [Ada Pawns](https://www.codechef.com/COOK102A/problems/ADAPWNS)
    * [Merging Towers](https://codeforces.com/contest/1380/problem/E)
+   * [Jack's Candy Shop](https://www.facebook.com/codingcompetitions/hacker-cup/2018/round-2/problems/B)
 
 
 (More links will be added regularly.)
