@@ -27,8 +27,8 @@ Some topics, DP in particular, can only be understood well by solving problems, 
    * [Ada Pawns](https://www.codechef.com/COOK102A/problems/ADAPWNS) ( brilliant reduction to nim )
    * [Merging Towers](https://codeforces.com/contest/1380/problem/E)
    * [Jack's Candy Shop](https://www.facebook.com/codingcompetitions/hacker-cup/2018/round-2/problems/B) (See the Time complexity analysis)
-   * [Range AND,OR,GCD] (https://leetcode.com/contest/weekly-contest-198/problems/find-a-value-of-a-mysterious-function-closest-to-target/) (Trick)
-   * [Longest awesome string] (https://leetcode.com/contest/biweekly-contest-32/problems/find-longest-awesome-substring/) (Another Trick involving bits)
+   * [Range AND,OR,GCD](https://leetcode.com/contest/weekly-contest-198/problems/find-a-value-of-a-mysterious-function-closest-to-target/) (Trick)
+   * [Longest awesome string](https://leetcode.com/contest/biweekly-contest-32/problems/find-longest-awesome-substring/) (Another Trick involving bits)
 
 
 (More links will be added regularly.)
