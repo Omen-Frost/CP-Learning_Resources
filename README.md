@@ -20,6 +20,7 @@ Some topics, DP in particular, can only be understood well by solving problems, 
    * [Marbles](https://codeforces.com/problemset/problem/1215/E)
    * [Keyboard Purchase](https://codeforces.com/problemset/problem/1238/E)
    * [Jongmah](https://codeforces.com/contest/1110/problem/D)
+   * [Segments Subset](https://codeforces.com/contest/1399/problem/F)
    
 1. General Problems
    * [New Year Tree](https://codeforces.com/contest/620/problem/E) (lazy seg practice)
