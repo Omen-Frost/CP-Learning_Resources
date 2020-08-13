@@ -30,6 +30,7 @@ Some topics, DP in particular, can only be understood well by solving problems, 
    * [Jack's Candy Shop](https://www.facebook.com/codingcompetitions/hacker-cup/2018/round-2/problems/B) (See the Time complexity analysis)
    * [Range AND,OR,GCD](https://leetcode.com/contest/weekly-contest-198/problems/find-a-value-of-a-mysterious-function-closest-to-target/) (Trick)
    * [Longest awesome string](https://leetcode.com/contest/biweekly-contest-32/problems/find-longest-awesome-substring/) (Another Trick involving bits)
+   * [664B](https://codeforces.com/contest/1394/problem/B) (Two solutions -> handling conflicting pairs using recursion; hashing integer sets)
 
 
 (More links will be added regularly.)
