@@ -9,6 +9,7 @@ This is a collection of links, blogs and problems etc that I have used to unders
 1. [Suffix Array](https://codeforces.com/edu/course/2)
 1. [FFT](https://codeforces.com/blog/entry/43499)
 1. [DFS Trees!!](https://codeforces.com/blog/entry/68138) 
+1. [Expectation](https://brilliant.org/wiki/linearity-of-expectation/)
 
 Some topics, DP in particular, can only be understood well by solving problems, these are some problems that I believe are very educating.
 
