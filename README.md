@@ -31,6 +31,7 @@ Some topics, DP in particular, can only be understood well by solving problems, 
    * [Range AND,OR,GCD](https://leetcode.com/contest/weekly-contest-198/problems/find-a-value-of-a-mysterious-function-closest-to-target/) (Trick)
    * [Longest awesome string](https://leetcode.com/contest/biweekly-contest-32/problems/find-longest-awesome-substring/) (Another Trick involving bits)
    * [664B](https://codeforces.com/contest/1394/problem/B) (Two solutions -> handling conflicting pairs using recursion; hashing integer sets)
+   * [AGC44A](https://atcoder.jp/contests/agc044/tasks/agc044_a)
 
 
 (More links will be added regularly.)
