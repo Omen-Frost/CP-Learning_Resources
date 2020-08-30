@@ -22,6 +22,7 @@ Some topics, DP in particular, can only be understood well by solving problems, 
    * [Keyboard Purchase](https://codeforces.com/problemset/problem/1238/E)
    * [Jongmah](https://codeforces.com/contest/1110/problem/D)
    * [Segments Subset](https://codeforces.com/contest/1399/problem/F)
+   * [Knapsack variation](https://www.hackerrank.com/contests/codenite-v1/challenges/knapsack-revision)
    
 1. General Problems
    * [New Year Tree](https://codeforces.com/contest/620/problem/E) (lazy seg practice)
@@ -34,8 +35,8 @@ Some topics, DP in particular, can only be understood well by solving problems, 
    * [664B](https://codeforces.com/contest/1394/problem/B) (Two solutions -> handling conflicting pairs using recursion; hashing integer sets)
    * [Number Theory 1](https://atcoder.jp/contests/agc044/tasks/agc044_a)
    * [Game Theory 2](https://codeforces.com/contest/1396/problem/B) 
-   * [Knapsack variation](https://www.hackerrank.com/contests/codenite-v1/challenges/knapsack-revision)
    * [Race car](https://leetcode.com/problems/race-car/)
+   * [Expectation](https://www.facebook.com/codingcompetitions/hacker-cup/2020/round-2/problems/B)
 
 
 (More links will be added regularly.)
