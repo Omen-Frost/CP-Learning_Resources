@@ -23,7 +23,7 @@ Some topics, DP in particular, can only be understood well by solving problems, 
    * [Jongmah](https://codeforces.com/contest/1110/problem/D)
    * [Segments Subset](https://codeforces.com/contest/1399/problem/F)
    * [Knapsack variation](https://www.hackerrank.com/contests/codenite-v1/challenges/knapsack-revision)
-   * [Cycles!](https://www.codechef.com/MAY20A/problems/SORTVS)
+   * [Cycles!](https://codeforces.com/contest/11/problem/D)
    
 1. General Problems
    * [New Year Tree](https://codeforces.com/contest/620/problem/E) (lazy seg practice)
