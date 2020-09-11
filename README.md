@@ -39,6 +39,7 @@ Some topics, DP in particular, can only be understood well by solving problems, 
    * [Race car](https://leetcode.com/problems/race-car/)
    * [Expectation](https://www.facebook.com/codingcompetitions/hacker-cup/2020/round-2/problems/B)
    * [Greedy](https://codeforces.com/problemset/problem/383/A) (Great editorial!)  
+   * [Divide and Conquer](https://learning.algozenith.com/AlgoZenith-Demo-Course-15/Learning-Material-Module-1-4/Divide-and-Conquer-11/Application-Practice-Hard-43/Weird-Function-36)
 
 
 (More links will be added regularly.)
