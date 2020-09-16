@@ -10,6 +10,7 @@ This is a collection of links, blogs and problems etc that I have used to unders
 1. [FFT](https://codeforces.com/blog/entry/43499)
 1. [DFS Trees!!](https://codeforces.com/blog/entry/68138) 
 1. [Expectation](https://brilliant.org/wiki/linearity-of-expectation/)
+1. [Basis and xor!](https://codeforces.com/blog/entry/68953)
 
 Some topics, DP in particular, can only be understood well by solving problems, these are some problems that I believe are very educating.
 
@@ -40,7 +41,7 @@ Some topics, DP in particular, can only be understood well by solving problems, 
    * [Expectation](https://www.facebook.com/codingcompetitions/hacker-cup/2020/round-2/problems/B)
    * [Greedy](https://codeforces.com/problemset/problem/383/A) (Great editorial!)  
    * [Divide and Conquer](https://learning.algozenith.com/AlgoZenith-Demo-Course-15/Learning-Material-Module-1-4/Divide-and-Conquer-11/Application-Practice-Hard-43/Weird-Function-36)
-   * [Graph] (https://www.codechef.com/COOK106A/problems/BICLIQUE)
+   * [Graph](https://www.codechef.com/COOK106A/problems/BICLIQUE)
 
 
 (More links will be added regularly.)
