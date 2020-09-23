@@ -42,6 +42,7 @@ Some topics, DP in particular, can only be understood well by solving problems, 
    * [Greedy](https://codeforces.com/problemset/problem/383/A) (Great editorial!)  
    * [Divide and Conquer](https://learning.algozenith.com/AlgoZenith-Demo-Course-15/Learning-Material-Module-1-4/Divide-and-Conquer-11/Application-Practice-Hard-43/Weird-Function-36)
    * [Graph](https://www.codechef.com/COOK106A/problems/BICLIQUE)
+   * [Random and Hashing/seg-trees](https://codeforces.com/contest/1418/problem/G) (see tutorial-2 for hash soln)
 
 
 (More links will be added regularly.)
