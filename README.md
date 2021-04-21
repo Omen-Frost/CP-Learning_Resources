@@ -26,7 +26,7 @@ Some topics, DP in particular, can only be understood well by solving problems, 
    * [Knapsack variation](https://www.hackerrank.com/contests/codenite-v1/challenges/knapsack-revision)
    * [Cycles!](https://codeforces.com/contest/11/problem/D)
    
-1. General Problems
+1. Uncategorised Problems
    * [New Year Tree](https://codeforces.com/contest/620/problem/E) (lazy seg practice)
    * [Nastya and Unexpected Guest](https://codeforces.com/problemset/problem/1341/E) ( graph concepts )
    * [Ada Pawns](https://www.codechef.com/COOK102A/problems/ADAPWNS) ( brilliant reduction to nim )
@@ -49,4 +49,8 @@ Some topics, DP in particular, can only be understood well by solving problems, 
 
 
 (More links will be added regularly.)
+Lets organize problems more properly!
+
+3. Expectation (Concept of LoE in application is one of the most beautiful things in cp!)
+   * [Colorings and Dominoes](https://codeforces.com/contest/1511/problem/E) 
 
