@@ -25,6 +25,7 @@ Some topics, DP in particular, can only be understood well by solving problems, 
    * [Segments Subset](https://codeforces.com/contest/1399/problem/F)
    * [Knapsack variation](https://www.hackerrank.com/contests/codenite-v1/challenges/knapsack-revision)
    * [Cycles!](https://codeforces.com/contest/11/problem/D)
+   * [DP on tree](https://codeforces.com/problemset/problem/815/C) (2 ways to optimize naive O(n^3) dp on tree, brilliant proof of the complexity in comments)
    
 1. Uncategorised Problems
    * [New Year Tree](https://codeforces.com/contest/620/problem/E) (lazy seg practice)
