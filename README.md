@@ -49,9 +49,6 @@ Some topics, DP in particular, can only be understood well by solving problems, 
    * [String letters swapping](https://codeforces.com/contest/1430/problem/E)
 
 
-(More links will be added regularly.)
-Lets organize problems more properly!
-
 3. Expectation (Concept of LoE in application is one of the most beautiful things in cp!)
    * [Colorings and Dominoes](https://codeforces.com/contest/1511/problem/E) 
 
